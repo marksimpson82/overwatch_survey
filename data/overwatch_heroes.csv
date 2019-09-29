@@ -1,0 +1,32 @@
+Hero_id,Hero_name,Hero_role
+0,Ashe,Damage
+1,Bastion,Damage
+2,Doomfist,Damage
+3,Genji,Damage
+4,Hanzo,Damage
+5,Junkrat,Damage
+6,McCree,Damage
+7,Mei,Damage
+8,Pharah,Damage
+9,Reaper,Damage
+10,Soldier: 76,Damage
+11,Sombra,Damage
+12,Symmetra,Damage
+13,Torbjorn,Damage
+14,Tracer,Damage
+15,Widowmaker,Damage
+16,Ana,Support
+17,Baptiste,Support
+18,Brigitte,Support
+19,Lucio,Support
+20,Mercy,Support
+21,Moira,Support
+22,Zenyatta,Support
+23,D.va,Tank
+24,Orisa,Tank
+25,Reinhardt,Tank
+26,Roadhog,Tank
+27,Sigma,Tank
+28,Winston,Tank
+29,Wrecking Ball,Tank
+30,Zarya,Tank

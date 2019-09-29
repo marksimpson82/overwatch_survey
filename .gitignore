@@ -1,0 +1,13 @@
+*.log
+*.pyc
+.cache/
+.coverage
+.idea/
+.vscode/
+overwatch_survey.egg-info/
+build/
+dist/
+docs/build/
+venv/
+wheelhouse/
+/overwatch_survey/.ipynb_checkpoints/Analysis-checkpoint.ipynb

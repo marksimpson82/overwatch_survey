@@ -1,0 +1,17 @@
+[metadata]
+name = 'overwatch_survey'
+version = '0.0.1'
+description = ''
+author = 'Mark Simpson'
+author_email = 'mjsimpson (at) gmail.com'
+license = 'MIT/Apache-2.0'
+url = 'https://github.com/marksimpson82/overwatch_survey'
+
+[requires]
+python_version = ['3.5', '3.6', 'pypy', 'pypy3']
+
+[build-system]
+requires = ['setuptools', 'wheel']
+
+[tool.hatch.commands]
+prerelease = 'hatch build'

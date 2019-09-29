@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: overwatch-survey
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/marksimpson82/overwatch_survey
+Author: Mark Simpson
+Author-email: mjsimpson (at) gmail.com
+Maintainer: Mark Simpson
+Maintainer-email: mjsimpson (at) gmail.com
+License: MIT/Apache-2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+
+overwatch_survey
+================
+
+-----
+
+.. contents:: **Table of Contents**
+    :backlinks: none
+
+Installation
+------------
+
+overwatch_survey is distributed on `PyPI <https://pypi.org>`_ as a universal
+wheel and is available on Linux/macOS and Windows and supports
+Python 3.5+ and PyPy.
+
+.. code-block:: bash
+
+    $ pip install overwatch_survey
+
+License
+-------
+
+overwatch_survey is distributed under the terms of both
+
+- `MIT License <https://choosealicense.com/licenses/mit>`_
+- `Apache License, Version 2.0 <https://choosealicense.com/licenses/apache-2.0>`_
+
+at your option.
+
+
