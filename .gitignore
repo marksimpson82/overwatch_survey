@@ -11,3 +11,8 @@ docs/build/
 venv/
 wheelhouse/
 /overwatch_survey/.ipynb_checkpoints/Analysis-checkpoint.ipynb
+
+# don't check in derived data, as I want to keep myself honest wrt. to being able to go from the raw => derived data
+/data/survey_with_ids.csv
+/data/table_basic_info.csv
+/data/table_hero_ratings.csv
