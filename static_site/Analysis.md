@@ -19,7 +19,7 @@ I'm curious about how the community perceives hero fun (playing as and against a
 
 ## Future survey improvements
 If I run the survey again in future, I plan to:
-* Collect platform (PC, PC, Xbox).
+* Collect platform (PC, PS4, Xbox).
 * Collect whether people enjoy playing _with_ a hero on their team.
 * Collect general comments at the end.
 * Re-word a few questions, specifically: 
